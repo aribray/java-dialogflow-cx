@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.13.0](https://github.com/googleapis/java-dialogflow-cx/compare/v0.12.1...v0.13.0) (2022-05-09)
+
+
+### Features
+
+* add audio export settings to security settings ([#476](https://github.com/googleapis/java-dialogflow-cx/issues/476)) ([0ba08fa](https://github.com/googleapis/java-dialogflow-cx/commit/0ba08fa66029046dde4def9da70e37194ecc0026))
+* added audio_export_settings ([#472](https://github.com/googleapis/java-dialogflow-cx/issues/472)) ([b7f5e1a](https://github.com/googleapis/java-dialogflow-cx/commit/b7f5e1afd5d9f1911ee3dd787302c11e13c99b62))
+
+
+### Documentation
+
+* update the doc on diagnostic info ([0ba08fa](https://github.com/googleapis/java-dialogflow-cx/commit/0ba08fa66029046dde4def9da70e37194ecc0026))
+* update the doc on diagnostic info ([#477](https://github.com/googleapis/java-dialogflow-cx/issues/477)) ([4237444](https://github.com/googleapis/java-dialogflow-cx/commit/423744460a42d81b36a2b77107f34ad3b017a521))
+
 ### [0.12.1](https://github.com/googleapis/java-dialogflow-cx/compare/v0.12.0...v0.12.1) (2022-04-18)
 
 
